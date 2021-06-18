@@ -2,7 +2,7 @@ package br.ucsal;
 
 import java.util.Scanner;
 
-public class Atividade0606JogoDavelha {
+public class JogoDaVelha {
 
 	public static void main(String[] args) {
 		confirmar();
